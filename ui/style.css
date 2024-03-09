@@ -1,0 +1,11 @@
+@import url(libs/simple-notify.css);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+body,html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
